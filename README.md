@@ -30,7 +30,12 @@ How many dimensions does your data have?
     * [Scatter plot](https://en.wikipedia.org/wiki/Scatter_plot)
   * Dependent
     * Continuous
-      * [Line chart](https://en.wikipedia.org/wiki/Line_chart)
+      * Values
+        * [Line chart](https://en.wikipedia.org/wiki/Line_chart)
+      * Quantities
+        * [Area chart](https://en.wikipedia.org/wiki/Area_chart)
+      * High-range values
+        * Horizon Chart
     * Discrete
       * Bar chart
 * **Many**
