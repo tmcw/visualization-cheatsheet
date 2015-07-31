@@ -1,6 +1,6 @@
 # Visualization Cheatsheet
 
-##What kind of data do you have, and what are you trying to show about it?
+What kind of data do you have, and what are you trying to show about it?
 
 * Quantities, showing the differences between them
   * Bar Chart
@@ -21,39 +21,39 @@
 * Quantities of a flow of money or materials going into different places at different times
   * [Sankey diagram](https://en.wikipedia.org/wiki/Sankey_diagram)
 
-##How many dimensions does your data have?
+How many dimensions does your data have?
 
-### **One**
+* **One**
   * [Histogram](https://en.wikipedia.org/wiki/Histogram)
-### **Two**
-  #### Independent
-    ##### [Scatter plot](https://en.wikipedia.org/wiki/Scatter_plot)
-  #### Dependent
-    ##### Continuous
-      ###### Values
+* **Two**
+  * Independent
+    * [Scatter plot](https://en.wikipedia.org/wiki/Scatter_plot)
+  * Dependent
+    * Continuous
+      * Values
         * [Line chart](https://en.wikipedia.org/wiki/Line_chart)
-      ###### Quantities
+      * Quantities
         * [Area chart](https://en.wikipedia.org/wiki/Area_chart)
-      ###### High-range values
+      * High-range values
         * Horizon chart
-    ##### Discrete
-      ###### Bar chart
-### **Three**
-  #### Independent
-    ##### Continuous
-      ###### 3D-surface chart
-    ##### Discrete
+    * Discrete
+      * Bar chart
+* **Three**
+  * Independent
+    * Continuous
+      * 3D-surface chart
+    * Discrete
       * [Bubble chart](https://en.wikipedia.org/wiki/Bubble_chart)
       * Color-coded scatter plot
-  #### Dependent
-    ##### Continuous
-      ###### Quantities 
+  * Dependent
+      * Continuous
+        * Quantities 
           * Absolute 
              * Stacked area chart
           * Relative
              * Percentage stacked area chart
-      ###### Values
+        * Values
           * Line chart
-### **Many**
+* **Many**
   * [Small multiples](https://en.wikipedia.org/wiki/Small_multiple)
   * [Parallel Coordinates](https://en.wikipedia.org/wiki/Parallel_coordinates)
