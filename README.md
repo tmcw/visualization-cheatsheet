@@ -15,7 +15,7 @@ What kind of data do you have, and what are you trying to show about it?
 * Temporal data of multiple quantities
   * Multiple area charts
 * Multiple attributes of multiple objects
-  * Parallel coordinates
+  * [Parallel coordinates](https://en.wikipedia.org/wiki/Parallel_coordinates)
 * Transfers between multiple places
   * Flame chart
 * Quantities of a flow of money or materials going into different places at different times
@@ -35,8 +35,25 @@ How many dimensions does your data have?
       * Quantities
         * [Area chart](https://en.wikipedia.org/wiki/Area_chart)
       * High-range values
-        * Horizon Chart
+        * Horizon chart
     * Discrete
       * Bar chart
+* **Three**
+  * Independent
+    * Continuous
+      * 3D-surface chart
+    * Discrete
+      * [Bubble chart](https://en.wikipedia.org/wiki/Bubble_chart)
+      * Color-coded scatter plot
+  * Dependent
+      * Continuous
+        * Quantities 
+          * Absolute 
+             * Stacked area chart
+          * Relative
+             * Percentage stacked area chart
+        * Values
+          * Line chart
 * **Many**
   * [Small multiples](https://en.wikipedia.org/wiki/Small_multiple)
+  * [Parallel Coordinates](https://en.wikipedia.org/wiki/Parallel_coordinates)
